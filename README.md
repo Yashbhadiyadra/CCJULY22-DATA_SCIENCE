@@ -1,4 +1,4 @@
-# CCJUN22-DATA_SCIENCE
+# CCJULY22-DATA_SCIENCE
 
 ## Yash Bhadiyadra - Data Science Intern at CodeClause [July-2022]
 
